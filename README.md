@@ -1,5 +1,5 @@
 # Personality_prediction
-Myers–Briggs personality prediction
+### Myers–Briggs personality prediction
 
 
 o	Predicting the personality of a person from their last 50 social media posts.</br>
